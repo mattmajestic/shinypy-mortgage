@@ -1,9 +1,6 @@
 from shiny import App, Inputs, Outputs, Session, render, ui
 
-import shinyswatch
-
 app_ui = ui.page_fluid(
-    shinyswatch.theme.darkly(),
     ui.h2("Mortgage Calculator"),
     ui.input_slider("price", "Home Price", 200000, 400000, 500),
     ui.input_slider("downpayment", "Down Payment %", 10, 20, 1),
