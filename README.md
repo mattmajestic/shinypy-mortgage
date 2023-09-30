@@ -21,18 +21,6 @@ Welcome to shinypy-mortgage, a powerful and user-friendly Mortgage Calculator bu
 
 Simply input your loan details, and shinypy-mortgage will do the rest! Visualize your mortgage journey and make informed decisions about your home purchase.
 
-## Contributions
-
-Contributions are welcome! Feel free to submit issues or pull requests to improve this mortgage calculator.
-
-## Support
-
-If you encounter any issues or have questions, please [open an issue](https://github.com/mattmajestic/shinypy-mortgage/issues).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Matt Majestic
