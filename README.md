@@ -1,43 +1,38 @@
-# 🏡 ShinyPy Mortgage Calculator 🏠
+# 🏠 shinypy-mortgage: Mortgage Calculator in Shiny for Python 🏡
 
-Welcome to ShinyPy Mortgage Calculator, the easiest way to calculate your mortgage payments in Python using the power of Shiny!
+Welcome to shinypy-mortgage, a powerful and user-friendly Mortgage Calculator built with Shiny for Python! Calculate your mortgage payments with ease and gain insights into your home financing.
 
-🚀 **[Demo](https://mattmajestic.github.io/shinypy-mortgage/)** | 📦 [Download](https://github.com/mattmajestic/shinypy-mortgage/archive/main.zip)
-
-## About
-
-ShinyPy Mortgage Calculator is a user-friendly Python application built with Shiny that helps you calculate your mortgage payments quickly and efficiently. Whether you're a homebuyer or a real estate professional, this tool can simplify the process of estimating your mortgage costs.
+🚀 **[Explore the Demo](https://mattmajestic.github.io/shinypy-mortgage/)** 🚀
 
 ## Features
 
-✨ Easy-to-use Shiny interface
-💰 Calculate monthly mortgage payments
-📈 Visualize payment breakdowns
-🔢 Adjustable loan parameters
-🌐 Accessible online demo
+✅ Calculate Monthly Mortgage Payments
+✅ Adjustable Interest Rates
+✅ Visualize Amortization Schedules
+✅ Customizable Loan Amounts and Durations
+
+## Getting Started
+
+1. Clone this repository.
+2. Install the required dependencies (Python, Shiny, etc.).
+3. Run the app and start calculating your mortgages!
 
 ## Usage
 
-1. Clone this repository or download the ZIP file.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the app using `python app.py`.
-4. Access the app in your web browser at `http://localhost:8050`.
+Simply input your loan details, and shinypy-mortgage will do the rest! Visualize your mortgage journey and make informed decisions about your home purchase.
 
-## Screenshots
+## Contributions
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+Contributions are welcome! Feel free to submit issues or pull requests to improve this mortgage calculator.
 
-## Contributing
+## Support
 
-We welcome contributions from the community! Feel free to open issues or submit pull requests to help improve this project.
+If you encounter any issues or have questions, please [open an issue](https://github.com/mattmajestic/shinypy-mortgage/issues).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
 
-## Contact
+---
 
-Have questions or suggestions? Reach out to us on GitHub or visit our [demo page](https://mattmajestic.github.io/shinypy-mortgage/) for more information.
-
-🌟 Thank you for using ShinyPy Mortgage Calculator! 🌟
+Made with ❤️ by [Your Name]
